@@ -1,0 +1,6 @@
+framework module Pods_Jambi {
+  umbrella header "Pods-Jambi-umbrella.h"
+
+  export *
+  module * { export * }
+}
